@@ -28,7 +28,7 @@
     &bt BT_SEL 0  &kp F1     &kp F2     &none      &kp F4     &kp F5     &kp F11    &kp F12    &kp F6     &kp F7     &kp F8     &kp F9     &kp F10          &bt BT_CLR
     &bt BT_SEL 1  &none      &none      &none      &none      &none      &none      &none      &none      &kp NUM_7  &kp NUM_8  &kp NUM_9  &kp KP_MULTIPLY  &out OUT_USB
     &bt BT_SEL 2  &none      &none      &none      &none      &none                            &none      &kp NUM_4  &kp NUM_5  &kp NUM_6  &kp KP_PLUS      &out OUT_BLE
-    &bt BT_SEL 3  &none      &none      &none      &none      &none      &none      &none      &none      &kp NUM_1  &kp NUM_2  &kp NUM_3  &kp KP_DIVIDE    &none
+    &bt BT_SEL 3  &none      &none      &none      &none      &none      &to 0      &to 0      &none      &kp NUM_1  &kp NUM_2  &kp NUM_3  &kp KP_DIVIDE    &none
     &bt BT_SEL 4  &none      &none      &none      &none                                                  &none      &kp KP_DOT &kp KP_N0  &kp KP_EQUAL     &out OUT_TOG
                                                            &none      &none      &kp C_MUTE &kp C_PP
                                                                       &none      &kp C_VOL_UP
